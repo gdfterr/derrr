@@ -1,0 +1,20 @@
+{
+    "name": "amctv-net/the-son-season-2-episode-7-tv-streaming",
+    "description": "Watch The Son Season 2 Episode 7 Online for Free Putlocker S06E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["The Son Season 2 Episode 7 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/nYUwA9he0k",
+            "homepage": "https://t.co/nYUwA9he0k",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
